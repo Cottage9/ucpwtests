@@ -1,0 +1,31 @@
+DEV
+ - better attributes for testing and readability
+  - data-test-id
+  - improve id in general (random strings)
+
+UX
+ - Too much is going on on landing page
+   - Two same link in viewport
+   - LP image seems quite disconnected from the offered product 
+ - Privacy settings icon wont go away on mobile
+ - Not optimized dark mode
+   - Some missing artefacts on images (as they won't change color from black)
+   - Also some other colors aren't converted, so the site in DM looks uninteresting
+     - For instance active checkboxes on Contact sales page
+     - Or arrows to expand menu in footer section
+  - Only few links on Whitepapers page. At least date shouldn't be visible (8 articles over 5 years doesn't look good)
+
+UI
+ - Footer has miss-aligned links on mobile 
+ - Missing first pricing table? (https://usercentrics.com/in-app-sdk/)
+ - Pricing table to horizontal scroll (as products above)
+   - As on mobile and on tablets
+Improvements
+  - I like the color combination, but some main CTR buttons merging with background
+    - Start free/Explore demo as they have the same color as bg (https://usercentrics.com/website-consent-management/)
+  - Support images in 'solutions' section are quite bland (https://usercentrics.com/website-consent-management/)
+    - Also those images are reused across other products (Web CMP, ctv CMP, PMP)
+    - Why black design for those product pages while others are more into white bg
+  - Too big font in currency dropdown
+  - Make horizontal carousels scrollable on desktop (good while using touchpad)
+  - Search: customer -> case study trusted shops (404 https://usercentrics.com/partner-integrations/trusted-shops/)
